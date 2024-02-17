@@ -1,6 +1,5 @@
 ﻿string[] array1 = new string[6] { "job", "7", "work", "help", "5789", ":("};
 string[] array2 = new string[array1.Length];
-int count = 0;
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
     int count = 0;
